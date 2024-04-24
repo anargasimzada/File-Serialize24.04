@@ -1,0 +1,17 @@
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\File-SerializeHW24.04\File-SerializeHW24.04\bin\Debug\net6.0\File-SerializeHW24.04.exe
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\File-SerializeHW24.04\File-SerializeHW24.04\bin\Debug\net6.0\File-SerializeHW24.04.deps.json
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\File-SerializeHW24.04\File-SerializeHW24.04\bin\Debug\net6.0\File-SerializeHW24.04.runtimeconfig.json
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\File-SerializeHW24.04\File-SerializeHW24.04\bin\Debug\net6.0\File-SerializeHW24.04.dll
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\File-SerializeHW24.04\File-SerializeHW24.04\bin\Debug\net6.0\File-SerializeHW24.04.pdb
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\File-SerializeHW24.04\File-SerializeHW24.04\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\File-SerializeHW24.04\File-SerializeHW24.04\obj\Debug\net6.0\File-SerializeHW24.04.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\File-SerializeHW24.04\File-SerializeHW24.04\obj\Debug\net6.0\File-SerializeHW24.04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\File-SerializeHW24.04\File-SerializeHW24.04\obj\Debug\net6.0\File-SerializeHW24.04.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\File-SerializeHW24.04\File-SerializeHW24.04\obj\Debug\net6.0\File-SerializeHW24.04.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\File-SerializeHW24.04\File-SerializeHW24.04\obj\Debug\net6.0\File-SerializeHW24.04.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\File-SerializeHW24.04\File-SerializeHW24.04\obj\Debug\net6.0\File-Ser.41341C88.Up2Date
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\File-SerializeHW24.04\File-SerializeHW24.04\obj\Debug\net6.0\File-SerializeHW24.04.dll
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\File-SerializeHW24.04\File-SerializeHW24.04\obj\Debug\net6.0\refint\File-SerializeHW24.04.dll
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\File-SerializeHW24.04\File-SerializeHW24.04\obj\Debug\net6.0\File-SerializeHW24.04.pdb
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\File-SerializeHW24.04\File-SerializeHW24.04\obj\Debug\net6.0\File-SerializeHW24.04.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\File-SerializeHW24.04\File-SerializeHW24.04\obj\Debug\net6.0\ref\File-SerializeHW24.04.dll

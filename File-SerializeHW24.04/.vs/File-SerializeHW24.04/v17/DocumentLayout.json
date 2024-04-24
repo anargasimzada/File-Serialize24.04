@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\File-SerializeHW24.04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{372ADCDC-FBBB-4ABB-BE29-66BB1D663682}|File-SerializeHW24.04\\File-SerializeHW24.04.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\file-serializehw24.04\\file-serializehw24.04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372ADCDC-FBBB-4ABB-BE29-66BB1D663682}|File-SerializeHW24.04\\File-SerializeHW24.04.csproj|solutionrelative:file-serializehw24.04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372ADCDC-FBBB-4ABB-BE29-66BB1D663682}|File-SerializeHW24.04\\File-SerializeHW24.04.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\file-serializehw24.04\\file-serializehw24.04\\files\\file.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{372ADCDC-FBBB-4ABB-BE29-66BB1D663682}|File-SerializeHW24.04\\File-SerializeHW24.04.csproj|solutionrelative:file-serializehw24.04\\files\\file.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "file.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\File-SerializeHW24.04\\File-SerializeHW24.04\\Files\\file.json",
+              "RelativeDocumentMoniker": "File-SerializeHW24.04\\Files\\file.json",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\File-SerializeHW24.04\\File-SerializeHW24.04\\Files\\file.json",
+              "RelativeToolTip": "File-SerializeHW24.04\\Files\\file.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-24T00:01:33.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\File-SerializeHW24.04\\File-SerializeHW24.04\\Program.cs",
+              "RelativeDocumentMoniker": "File-SerializeHW24.04\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\File-SerializeHW24.04\\File-SerializeHW24.04\\Program.cs",
+              "RelativeToolTip": "File-SerializeHW24.04\\Program.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAuwEgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T23:57:43.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

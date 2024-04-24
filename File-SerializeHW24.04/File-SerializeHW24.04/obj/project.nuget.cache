@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bh/3JtVSOOZaEKkbaJ303i3JobyCua8jRbW8Nfm1rJuWvCygAiiYqRFkzeX9/l3rqsSCGxs+7MGOuA9K6sgVLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\OneDrive\\İş masası\\CodeAcademy Tasks\\File-SerializeHW24.04\\File-SerializeHW24.04\\File-SerializeHW24.04.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
