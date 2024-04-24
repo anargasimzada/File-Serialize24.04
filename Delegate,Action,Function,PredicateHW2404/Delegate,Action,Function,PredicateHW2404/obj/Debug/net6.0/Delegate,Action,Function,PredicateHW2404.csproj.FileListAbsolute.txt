@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Delegate,Action,Function,PredicateHW2404\Delegate,Action,Function,PredicateHW2404\bin\Debug\net6.0\Delegate,Action,Function,PredicateHW2404.exe
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Delegate,Action,Function,PredicateHW2404\Delegate,Action,Function,PredicateHW2404\bin\Debug\net6.0\Delegate,Action,Function,PredicateHW2404.deps.json
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Delegate,Action,Function,PredicateHW2404\Delegate,Action,Function,PredicateHW2404\bin\Debug\net6.0\Delegate,Action,Function,PredicateHW2404.runtimeconfig.json
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Delegate,Action,Function,PredicateHW2404\Delegate,Action,Function,PredicateHW2404\bin\Debug\net6.0\Delegate,Action,Function,PredicateHW2404.dll
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Delegate,Action,Function,PredicateHW2404\Delegate,Action,Function,PredicateHW2404\bin\Debug\net6.0\Delegate,Action,Function,PredicateHW2404.pdb
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Delegate,Action,Function,PredicateHW2404\Delegate,Action,Function,PredicateHW2404\obj\Debug\net6.0\Delegate,Action,Function,PredicateHW2404.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Delegate,Action,Function,PredicateHW2404\Delegate,Action,Function,PredicateHW2404\obj\Debug\net6.0\Delegate,Action,Function,PredicateHW2404.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Delegate,Action,Function,PredicateHW2404\Delegate,Action,Function,PredicateHW2404\obj\Debug\net6.0\Delegate,Action,Function,PredicateHW2404.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Delegate,Action,Function,PredicateHW2404\Delegate,Action,Function,PredicateHW2404\obj\Debug\net6.0\Delegate,Action,Function,PredicateHW2404.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Delegate,Action,Function,PredicateHW2404\Delegate,Action,Function,PredicateHW2404\obj\Debug\net6.0\Delegate,Action,Function,PredicateHW2404.dll
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Delegate,Action,Function,PredicateHW2404\Delegate,Action,Function,PredicateHW2404\obj\Debug\net6.0\refint\Delegate,Action,Function,PredicateHW2404.dll
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Delegate,Action,Function,PredicateHW2404\Delegate,Action,Function,PredicateHW2404\obj\Debug\net6.0\Delegate,Action,Function,PredicateHW2404.pdb
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Delegate,Action,Function,PredicateHW2404\Delegate,Action,Function,PredicateHW2404\obj\Debug\net6.0\Delegate,Action,Function,PredicateHW2404.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Delegate,Action,Function,PredicateHW2404\Delegate,Action,Function,PredicateHW2404\obj\Debug\net6.0\ref\Delegate,Action,Function,PredicateHW2404.dll
